@@ -2,6 +2,8 @@
 install.packages("readr", "dplyr")
 install.packages('caret', 'ROCR')
 
+#check the requirements
+
 #install the library
 library("readr")
 library("dplyr")
